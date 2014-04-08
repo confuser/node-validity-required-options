@@ -10,7 +10,7 @@ Validity style validator which validates a field against a set of valid options
 
 ## Usage
 
-Below is a simple example for usage with schemata:
+Below  is a simple example for usage with schemata:
 
 ```js
 
