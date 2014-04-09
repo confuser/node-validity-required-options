@@ -2,7 +2,7 @@
   "name": "validity-required-options",
   "version": "0.0.1",
   "description": "Validity style validator which validates a field against a set of valid options",
-  "main": "validitor.js",
+  "main": "validator.js",
   "directories": {
     "test": "test"
   },
